@@ -8,8 +8,6 @@
 #include "parlay/sequence.h"
 #include "parlay/internal/get_time.h"
 
-#include "suffix_array.h"
-
 using charseq = parlay::sequence<char>;
 using uint = unsigned int;
 
@@ -79,13 +77,6 @@ int main(int argc, char* argv[]) {
     parlay::sequence<index> result;
 
     parlay::internal::timer t("Time");
-    for (int i=0; i < 1; i++) {
-        result = suffix_array(str);
-//        for (auto r : result)
-//            std::cout << r << " ";
-//        std::cout << "\n";
-        t.next("suffix_array");
-    }
 
     for (int i=0; i < 1; i++) {
         result = build_suffix_array(int_seq);
