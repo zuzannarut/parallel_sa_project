@@ -1,0 +1,14 @@
+# Target labels
+ parlaylib-populate
+# Source files and their labels
+/Users/zuzia/Desktop/CMSC858N/HW2/858spring2024_assignment2/hotspots/cmake-build-debug/_deps/parlaylib-subbuild/CMakeFiles/parlaylib-populate
+/Users/zuzia/Desktop/CMSC858N/HW2/858spring2024_assignment2/hotspots/cmake-build-debug/_deps/parlaylib-subbuild/CMakeFiles/parlaylib-populate.rule
+/Users/zuzia/Desktop/CMSC858N/HW2/858spring2024_assignment2/hotspots/cmake-build-debug/_deps/parlaylib-subbuild/CMakeFiles/parlaylib-populate-complete.rule
+/Users/zuzia/Desktop/CMSC858N/HW2/858spring2024_assignment2/hotspots/cmake-build-debug/_deps/parlaylib-subbuild/parlaylib-populate-prefix/src/parlaylib-populate-stamp/parlaylib-populate-build.rule
+/Users/zuzia/Desktop/CMSC858N/HW2/858spring2024_assignment2/hotspots/cmake-build-debug/_deps/parlaylib-subbuild/parlaylib-populate-prefix/src/parlaylib-populate-stamp/parlaylib-populate-configure.rule
+/Users/zuzia/Desktop/CMSC858N/HW2/858spring2024_assignment2/hotspots/cmake-build-debug/_deps/parlaylib-subbuild/parlaylib-populate-prefix/src/parlaylib-populate-stamp/parlaylib-populate-download.rule
+/Users/zuzia/Desktop/CMSC858N/HW2/858spring2024_assignment2/hotspots/cmake-build-debug/_deps/parlaylib-subbuild/parlaylib-populate-prefix/src/parlaylib-populate-stamp/parlaylib-populate-install.rule
+/Users/zuzia/Desktop/CMSC858N/HW2/858spring2024_assignment2/hotspots/cmake-build-debug/_deps/parlaylib-subbuild/parlaylib-populate-prefix/src/parlaylib-populate-stamp/parlaylib-populate-mkdir.rule
+/Users/zuzia/Desktop/CMSC858N/HW2/858spring2024_assignment2/hotspots/cmake-build-debug/_deps/parlaylib-subbuild/parlaylib-populate-prefix/src/parlaylib-populate-stamp/parlaylib-populate-patch.rule
+/Users/zuzia/Desktop/CMSC858N/HW2/858spring2024_assignment2/hotspots/cmake-build-debug/_deps/parlaylib-subbuild/parlaylib-populate-prefix/src/parlaylib-populate-stamp/parlaylib-populate-test.rule
+/Users/zuzia/Desktop/CMSC858N/HW2/858spring2024_assignment2/hotspots/cmake-build-debug/_deps/parlaylib-subbuild/parlaylib-populate-prefix/src/parlaylib-populate-stamp/parlaylib-populate-update.rule

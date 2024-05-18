@@ -1,0 +1,21 @@
+# ninja log v5
+1	25	1713104303989674437	parlaylib-populate-prefix/src/parlaylib-populate-stamp/parlaylib-populate-mkdir	dd695dcd72f6caeb
+1	25	1713104303989674437	/Users/zuzia/Desktop/CMSC858N/HW2/858spring2024_assignment2/hotspots/cmake-build-debug/_deps/parlaylib-subbuild/parlaylib-populate-prefix/src/parlaylib-populate-stamp/parlaylib-populate-mkdir	dd695dcd72f6caeb
+25	746	1713104304710730415	parlaylib-populate-prefix/src/parlaylib-populate-stamp/parlaylib-populate-download	1cb3a9255808ef8
+25	746	1713104304710730415	/Users/zuzia/Desktop/CMSC858N/HW2/858spring2024_assignment2/hotspots/cmake-build-debug/_deps/parlaylib-subbuild/parlaylib-populate-prefix/src/parlaylib-populate-stamp/parlaylib-populate-download	1cb3a9255808ef8
+746	989	0	parlaylib-populate-prefix/src/parlaylib-populate-stamp/parlaylib-populate-update	b69a8a4e08ec441
+746	989	0	/Users/zuzia/Desktop/CMSC858N/HW2/858spring2024_assignment2/hotspots/cmake-build-debug/_deps/parlaylib-subbuild/parlaylib-populate-prefix/src/parlaylib-populate-stamp/parlaylib-populate-update	b69a8a4e08ec441
+989	1000	1713104304964638188	parlaylib-populate-prefix/src/parlaylib-populate-stamp/parlaylib-populate-patch	3f5c4d53abccf807
+989	1000	1713104304964638188	/Users/zuzia/Desktop/CMSC858N/HW2/858spring2024_assignment2/hotspots/cmake-build-debug/_deps/parlaylib-subbuild/parlaylib-populate-prefix/src/parlaylib-populate-stamp/parlaylib-populate-patch	3f5c4d53abccf807
+1000	1009	1713104304974450824	parlaylib-populate-prefix/src/parlaylib-populate-stamp/parlaylib-populate-configure	2a66ae8851bf29b0
+1000	1009	1713104304974450824	/Users/zuzia/Desktop/CMSC858N/HW2/858spring2024_assignment2/hotspots/cmake-build-debug/_deps/parlaylib-subbuild/parlaylib-populate-prefix/src/parlaylib-populate-stamp/parlaylib-populate-configure	2a66ae8851bf29b0
+1009	1020	1713104304984884005	parlaylib-populate-prefix/src/parlaylib-populate-stamp/parlaylib-populate-build	ed24aef042562db1
+1009	1020	1713104304984884005	/Users/zuzia/Desktop/CMSC858N/HW2/858spring2024_assignment2/hotspots/cmake-build-debug/_deps/parlaylib-subbuild/parlaylib-populate-prefix/src/parlaylib-populate-stamp/parlaylib-populate-build	ed24aef042562db1
+1020	1029	1713104304994229638	parlaylib-populate-prefix/src/parlaylib-populate-stamp/parlaylib-populate-install	f5f40226c27dcfb
+1020	1029	1713104304994229638	/Users/zuzia/Desktop/CMSC858N/HW2/858spring2024_assignment2/hotspots/cmake-build-debug/_deps/parlaylib-subbuild/parlaylib-populate-prefix/src/parlaylib-populate-stamp/parlaylib-populate-install	f5f40226c27dcfb
+1029	1041	1713104305005340405	parlaylib-populate-prefix/src/parlaylib-populate-stamp/parlaylib-populate-test	f217c131f7a45819
+1029	1041	1713104305005340405	/Users/zuzia/Desktop/CMSC858N/HW2/858spring2024_assignment2/hotspots/cmake-build-debug/_deps/parlaylib-subbuild/parlaylib-populate-prefix/src/parlaylib-populate-stamp/parlaylib-populate-test	f217c131f7a45819
+1041	1059	1713104305024203381	CMakeFiles/parlaylib-populate-complete	f1fedac4a0012077
+1041	1059	1713104305024203381	parlaylib-populate-prefix/src/parlaylib-populate-stamp/parlaylib-populate-done	f1fedac4a0012077
+1041	1059	1713104305024203381	/Users/zuzia/Desktop/CMSC858N/HW2/858spring2024_assignment2/hotspots/cmake-build-debug/_deps/parlaylib-subbuild/CMakeFiles/parlaylib-populate-complete	f1fedac4a0012077
+1041	1059	1713104305024203381	/Users/zuzia/Desktop/CMSC858N/HW2/858spring2024_assignment2/hotspots/cmake-build-debug/_deps/parlaylib-subbuild/parlaylib-populate-prefix/src/parlaylib-populate-stamp/parlaylib-populate-done	f1fedac4a0012077

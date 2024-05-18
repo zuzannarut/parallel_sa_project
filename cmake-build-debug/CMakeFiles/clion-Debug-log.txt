@@ -1,0 +1,13 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -G Ninja -S /Users/zuzia/Desktop/CMSC858N/parallel_sa -B /Users/zuzia/Desktop/CMSC858N/parallel_sa/cmake-build-debug
+CMake Error: The current CMakeCache.txt directory /Users/zuzia/Desktop/CMSC858N/parallel_sa/cmake-build-debug/_deps/parlaylib-subbuild/CMakeCache.txt is different than the directory /Users/zuzia/Desktop/CMSC858N/HW2/858spring2024_assignment2/hotspots/cmake-build-debug/_deps/parlaylib-subbuild where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt
+
+CMake Error at /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/FetchContent.cmake:1667 (message):
+  CMake step for parlaylib failed: 1
+Call Stack (most recent call first):
+  /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/FetchContent.cmake:1819:EVAL:2 (__FetchContent_directPopulate)
+  /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/FetchContent.cmake:1819 (cmake_language)
+  /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/FetchContent.cmake:2033 (FetchContent_Populate)
+  CMakeLists.txt:22 (FetchContent_MakeAvailable)
+
+
+-- Configuring incomplete, errors occurred!
